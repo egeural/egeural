@@ -18,10 +18,9 @@ Computer Engineering Student at Bilkent University 🎓 | Software Engineer 💻
 
 ### 🚀 About Me
 
-I'm a passionate Computer Engineering student based in Ankara, Türkiye. I love building scalable web applications, exploring AI, and designing digital systems. When I'm not coding, you can find me running competitive races or playing basketball.
+I'm a passionate Computer Engineering student based in Ankara, Türkiye. I love building scalable web applications and exploring AI. When I'm not coding, you can find me running competitive races or playing basketball.
 
 - 🔭 I'm currently working on an **AI Model Routing System**.
-- 🌱 I'm currently learning **SystemVerilog** and **Advanced Frontend Architecture**.
 - 🏆 Ranked **151st** nationwide in university entrance exams (YKS Quantitative).
 
 ---
@@ -77,8 +76,6 @@ I'm a passionate Computer Engineering student based in Ankara, Türkiye. I love 
 
 **Bilkent University** (2023 -- Present)
 *BSc in Computer Engineering*
-
-**Diltaş Anatolian High School** (Graduated 2023)
 
 ---
 
